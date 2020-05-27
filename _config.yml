@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Parsa | Portfolio Jekyll Template
+title: sdee.co | go.f426
 logo: logo.png # You can add own logo
 description: # Add your awesome description
 baseurl: "/go.f426" # The subpath of your site, e.g. /blog
@@ -46,19 +46,19 @@ hero:
 #-------------------------------
 # Author Settings
 author:
-  name: Jhon Abraham
+  name: SDEE's Real Life
 
 #-------------------------------
 # Contact Info
 contact:
-  email: example@ymail.com
-  phone: +90 000 333 22
+  email: odd.daboss@gmail.com
+  phone: +66 86 5995 692
   address:
-    city: Sydney
-    street: 6 rip carl Avenue CA 90733
+    city: TH
+    street: 328/139 Soi Sannibathedsabal Ladprao Road Chandrakasem Jatuchuk BKK 10900
 
 # Contact Form
-contact-form: example@ymail.com
+contact-form: odd.daboss@gmail.com
 
 # Social links
 social:
