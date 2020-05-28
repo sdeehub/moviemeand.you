@@ -9,7 +9,7 @@ VERSION:	Versoin Number
 -------------------------------------------------------------------*/
 /*  typography */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Playfair+Display:400,700");
-@import url('https://fonts.googleapis.com/css2?family=Athiti:wght@200;300;400;500;600&family=Prompt:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Athiti:wght@200;300&family=Prompt:wght@300;400&display=swap');
 @font-face {
   font-family: 'hanskendrick';
   src: url("../plugins/fonts/hanskendrick-regular-webfont.woff") format("woff");
