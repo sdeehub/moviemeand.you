@@ -21,8 +21,8 @@ body {
   line-height: 1.5;
   font-family: 'Athiti', sans-serif;
   -webkit-font-smoothing: antialiased;
-  font-size: 15px;
-  color: #585757;
+  font-size: 16px;
+  color: #3e3e40;
 }
 
 p, .paragraph {
@@ -33,7 +33,7 @@ p, .paragraph {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #000000;
+  color: #311e3e;
   font-family: 'Prompt', sans-serif;
   font-weight: 600;
   line-height: 1.2;
@@ -348,7 +348,7 @@ a:hover, a.text-dark:hover {
 }
 
 .text-dark {
-  color: #000000 !important;
+  color: #311e3e !important;
 }
 
 .font-secondary {
