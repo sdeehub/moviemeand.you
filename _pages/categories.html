@@ -28,7 +28,7 @@ title: Categories
           <div class="col-sm-6 mb-5">
             <a name="{{ category_name | slugize }}"></a>
             <article class="text-center">
-              <img class="img-fluid mb-4" src="{{site.baseurl}}/{{post.image}}" alt="{{post.title}}">
+              <img class="img-fluid mb-4" src="{{post.cdn_image}}" alt="{{post.title}}">
               <p class="text-uppercase mb-2">{{ category_name }}</p>
               <h4 class="title-border"><a class="text-dark" href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h4>
               <p>{{ post.content | strip_html | truncatewords: 35 }}</p>

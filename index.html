@@ -12,7 +12,7 @@ layout: default
       {% if post.featured == true %}
       <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
         <article class="card bg-dark text-center text-white border-0 rounded-0">
-          <img class="card-img rounded-0 img-fluid w-100" src="{{site.baseurl}}/{{post.image}}" alt="{{post.title}}">
+          <img class="card-img rounded-0 img-fluid w-100" src="{{post.cdn_image}}" alt="{{post.title}}">
           <div class="card-img-overlay">
             <div class="card-content">
               {% if post %}
@@ -45,7 +45,7 @@ layout: default
 			{% for post in paginator.posts %}
       <div class="col-lg-4 col-sm-6 mb-5">
         <article class="text-center">
-					<img class="img-fluid mb-4" src="{{site.baseurl}}/{{post.image}}" alt="{{post.title}}">
+					<img class="img-fluid mb-4" src="{{post.cdn_image}}" alt="{{post.title}}">
 					{% if post %}
 						{% assign categories = post.categories %}
 					{% else %}
@@ -117,7 +117,7 @@ layout: default
       <div class="col-12 mb-100">
         <article data-file="{{ post.url | prepend: site.baseurl }}" data-target="article" class="article-full-width {{class}}">
           <div class="post-image">
-            <img class="img-fluid" src="{{site.baseurl}}/{{post.image}}" alt="{{post.title}}">
+            <img class="img-fluid" src="{{post.cdn_image}}" alt="{{post.title}}">
           </div>
           <div class="post-content">
             <ul class="list-inline d-flex justify-content-between border-bottom post-meta pb-2 mb-4">

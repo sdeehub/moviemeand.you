@@ -22,7 +22,7 @@ layout: default
           {% for post in page.posts %}
           <div class="col-sm-6 mb-5">
             <article class="text-center">
-              <img class="img-fluid mb-4" src="{{site.baseurl}}/{{post.image}}" alt="{{post.title}}">
+              <img class="img-fluid mb-4" src="{{post.cdn_image}}" alt="{{post.title}}">
               {% if post %}
                 {% assign categories = post.categories %}
               {% else %}
