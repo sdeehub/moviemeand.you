@@ -21,13 +21,13 @@ body {
   line-height: 1.5;
   font-family: 'Athiti', sans-serif;
   -webkit-font-smoothing: antialiased;
-  font-size: 16px;
+  font-size: 18px;
   color: #3e3e40;
 }
 
 p, .paragraph {
   font-weight: 400;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5;
   font-family: 'Athiti', sans-serif;
 }
