@@ -11,13 +11,13 @@ url: "https://sdeehub.github.io/" # The base hostname & protocol for your site, 
 preloader: true # To disable preloader change value to false
 
 menu:
-  - url: /
+  - url: /go.f426/
     name: Home
-  - url: /about/
+  - url: /go.f426/about/
     name: About
-  - url: /categories/
+  - url: /go.f426/categories/
     name: Categories
-  - url: /contact/
+  - url: /go.f426/contact/
     name: Contact
 
 # *** NOTE ***
