@@ -4,6 +4,7 @@ title: "3 ปี ที่ไม่รู้ว่า"
 date: 2020-06-08 T11:58:58+07:00
 description: "This is meta description"
 featured: true
+featured_image: "https://res.cloudinary.com/sdees-reallife/image/upload/h_554,w_474,c_pad,b_rgb:ff9aa2/v1583659451/IMG_1088.jpg"
 cdn_image: "https://res.cloudinary.com/sdees-reallife/image/upload/h_554,w_474,c_fill/v1583659451/IMG_1088.jpg"
 categories:
   - "Plant"
