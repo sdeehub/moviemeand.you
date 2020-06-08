@@ -3,7 +3,8 @@ layout: post
 title: "อยู่บ้าน ปรับตัว เปลี่ยนใจ มีชีวิต(ใหม่)"
 date: 2020-05-27 T23:13:08+07:00
 description: "This is meta description"
-cdn_image: "https://res.cloudinary.com/sdees-reallife/image/upload/v1589211339/1588418092065.png"
+featured: true
+cdn_image: "https://res.cloudinary.com/sdees-reallife/image/upload/h_554,w_474,c_pad,b_rgb:f8f8ff/v1590073462/IMG_20170619_103449_248.jpg"
 categories:
   - "Plant"
 tags:

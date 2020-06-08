@@ -3,7 +3,8 @@ layout: post
 title: "วัน-เดือนใหม่"
 date: 2020-06-02 T07:02:43+07:00
 description: "This is meta description"
-cdn_image: "https://res.cloudinary.com/sdees-reallife/image/upload/v1589211339/1588418092065.png"
+featured: true
+cdn_image: "https://res.cloudinary.com/sdees-reallife/image/upload/h_554,w_474,c_pad,b_auto/v1591543513/1591141864991.jpg"
 categories:
   - "Plant"
 tags:
