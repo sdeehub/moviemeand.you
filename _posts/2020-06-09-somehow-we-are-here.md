@@ -23,4 +23,4 @@ Then we were steady and sort of happy in that very little space that we were sor
 
 I know these memories they were scrappy and way kind of grey, old and fading out. But somehow ...
 
-Published December 16, 2017 on [STORYLOG.CO](https://storylog.co/story/5a351be57e8a965078b0b0f4)
+*Published December 16, 2017 on [STORYLOG.CO](https://storylog.co/story/5a351be57e8a965078b0b0f4)*
