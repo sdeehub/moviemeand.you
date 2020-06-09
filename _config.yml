@@ -10,15 +10,16 @@ url: "https://sdeehub.github.io/" # The base hostname & protocol for your site, 
 # Preloader
 preloader: true # To disable preloader change value to false
 
-menu:
-  - url: /go.f426/
-    name: Home
-  - url: /go.f426/about/
-    name: About
-  - url: /go.f426/categories/
-    name: Categories
-  - url: /go.f426/contact/
-    name: Contact
+# Comment out menu
+# menu:
+#   - url: /go.f426/
+#     name: Home
+#   - url: /go.f426/about/
+#     name: About
+#   - url: /go.f426/categories/
+#     name: Categories
+#   - url: /go.f426/contact/
+#     name: Contact
 
 # *** NOTE ***
 # You can add submenus. For example:
@@ -90,7 +91,7 @@ plugins:
   - jekyll-sitemap
   - jekyll/tagging
 
-paginate: 10
+paginate: 8
 paginate_path: "/page/:num"
 
 # Pages Path
