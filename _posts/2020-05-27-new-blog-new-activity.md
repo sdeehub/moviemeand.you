@@ -4,7 +4,7 @@ title: "อยู่บ้าน ปรับตัว เปลี่ยนใ�
 date: 2020-05-27 T23:13:08+07:00
 description: "This is meta description"
 featured:
-featured_image: "https://res.cloudinary.com/sdees-reallife/image/upload/h_554,w_474,c_pad,b_rgb:c7ceea/v1590073462/IMG_20170619_103449_248.jpg"
+featured_image: "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg"
 cdn_image: "https://res.cloudinary.com/sdees-reallife/image/upload/h_554,w_474,c_fill/v1590073462/IMG_20170619_103449_248.jpg"
 categories:
   - "Plant"
