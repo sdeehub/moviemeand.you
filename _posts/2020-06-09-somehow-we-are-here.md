@@ -5,7 +5,7 @@ date: 2020-06-09 T10:20:46+07:00
 description: "This is meta description"
 featured:
 featured_image:
-cdn_image: "https://res.cloudinary.com/sdees-reallife/image/upload/h_554,w_474,c_fill/v1569159407/IMG_9083.jpg"
+cdn_image: "https://m.media-amazon.com/images/M/MV5BOWM4NTY2NTMtZDZlZS00NTgyLWEzZDMtODE3ZGI1MzI3ZmU5XkEyXkFqcGdeQXVyNzI1NzMxNzM@.jpg"
 categories:
   - "STORYLOG"
 tags:
