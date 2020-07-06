@@ -4,7 +4,7 @@ title: "ผีหัวขาด"
 date: 2020-06-02 T07:02:43+07:00
 description: "This is meta description"
 featured: true
-featured_image: "https://res.cloudinary.com/sdees-reallife/image/upload/h_554,w_474,c_pad,b_rgb:b5ead7/v1591543513/1591141864991.jpg"
+featured_image: "https://m.media-amazon.com/images/M/MV5BZGU3MWI2ZDAtNDMxMS00NzRiLWE5NzAtZWIzN2RmNWQ5NTJmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@.jpg"
 cdn_image: "https://m.media-amazon.com/images/M/MV5BZGU3MWI2ZDAtNDMxMS00NzRiLWE5NzAtZWIzN2RmNWQ5NTJmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@.jpg"
 categories:
   - "Plant"
