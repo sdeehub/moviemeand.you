@@ -5,7 +5,7 @@ date: 2020-06-02 T07:02:43+07:00
 description: "This is meta description"
 featured: true
 featured_image: "https://m.media-amazon.com/images/M/MV5BNmRiM2ViMjMtMjEwZS00OTNmLTlhNjEtY2NhNjI2MjIyYmQ4XkEyXkFqcGdeQXVyNDkzMDkyOTQ@.jpg"
-cdn_image: "https://res.cloudinary.com/sdees-reallife/image/upload/h_554,w_474,c_fill/v1591543513/1591141864991.jpg"
+cdn_image: "https://m.media-amazon.com/images/M/MV5BZGU3MWI2ZDAtNDMxMS00NzRiLWE5NzAtZWIzN2RmNWQ5NTJmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@.jpg"
 categories:
   - "Plant"
 tags:
