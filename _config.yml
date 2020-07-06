@@ -1,10 +1,10 @@
 #-------------------------------
 # General Site Settings
 
-title: sdee.co | go.f426
+title: F426 | Movie
 logo: logo.png # You can add own logo
 description: # Add your awesome description
-baseurl: "/go.f426" # The subpath of your site, e.g. /blog
+baseurl: "/moviemeand.you" # The subpath of your site, e.g. /blog
 url: "https://sdeehub.github.io/" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Preloader
