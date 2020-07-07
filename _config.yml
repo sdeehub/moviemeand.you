@@ -91,7 +91,7 @@ plugins:
   - jekyll-sitemap
   - jekyll/tagging
 
-paginate: 8
+paginate: 9
 paginate_path: "/page/:num"
 
 # Pages Path
