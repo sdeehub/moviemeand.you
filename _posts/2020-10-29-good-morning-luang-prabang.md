@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "สะบายดี หลวงพระบาง"
+title: "สะบายดี หลวงพะบาง"
 date: 2020-10-29 T22:37:26+07:00
 description: "This is meta description"
 featured:
