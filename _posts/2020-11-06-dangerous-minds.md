@@ -11,7 +11,6 @@ categories:
 tags:
   - "Photos"
   - "Plant"
+show_date:
+quote:
 ---
-วันออกฉาย:
-
-Quotes:
