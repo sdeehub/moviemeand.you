@@ -57,6 +57,8 @@ layout: default
           <h4 class="title-border"><a class="text-dark" href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h4>
           <p>{{ post.content | strip_html | truncatewords: 35 }}</p>
           <p>{{ post.show_date }}{{ post.quote }}</p>
+          <li class="list-inline-item"><i class="ti-calendar mr-2"></i>{{ post.show_date }}</li>
+          <li class="list-inline-item"><i class="ti-user mr-2"></i>{{ post.quote }}</li>
           <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-transparent">read more</a>
         </article>
       </div>
