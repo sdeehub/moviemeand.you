@@ -11,7 +11,7 @@ categories:
 tags:
   - "Photos"
   - "Plant"
+show_date: 1983-AUG-05
+quote: Have you ever made love on a real train?
+quote_character: Lana
 ---
-วันออกฉาย:
-
-Quotes:

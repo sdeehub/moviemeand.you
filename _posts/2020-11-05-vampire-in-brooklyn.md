@@ -11,7 +11,7 @@ categories:
 tags:
   - "Photos"
   - "Plant"
+show_date: 1995-OCT-27
+quote: It doesn't work that way. She has to give herself to me voluntarily.
+quote_character: Maximillian
 ---
-วันออกฉาย:
-
-Quotes:
