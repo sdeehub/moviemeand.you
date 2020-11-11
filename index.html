@@ -59,6 +59,7 @@ layout: default
             <p class="mb-0">{{ post.quote }}</p>
             <footer class="blockquote-footer">{{ post.quote_character }}</footer>
           </blockquote>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-transparent">read more</a>
         </article>
       </div>
 			{% endfor %}
