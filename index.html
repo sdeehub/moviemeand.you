@@ -56,7 +56,7 @@ layout: default
 					{% endfor %}
           <h4 class="title-border"><a class="text-dark" href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h4>
           <blockquote class="blockquote text-right">
-            <p class="mb-0">{{ post.quote }}</p>
+            <p class="mb-0"><i class="ti-quote-left mr-2"></i>{{ post.quote }}<i class="ti-quote-right mr-2"></i></p>
             <footer class="blockquote-footer">{{ post.quote_character }}</footer>
           </blockquote>
         </article>
