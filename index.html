@@ -55,6 +55,10 @@ layout: default
 					<p class="text-uppercase mb-2">{{category}}</p>
 					{% endfor %}
           <h4 class="title-border"><a class="text-dark" href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h4>
+          <blockquote class="blockquote text-right">
+            <p class="mb-0">{{ post.quote }}</p>
+            <footer class="blockquote-footer">{{ post.quote_character }}</footer>
+          </blockquote>
           <li class="list-inline-item"><i class="ti-calendar mr-2"></i>วันออกฉาย: {{ post.show_date }}</li>
           <li class="list-inline-item"><i class="ti-user mr-2"></i>Quote: {{ post.quote }}</li>
           <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-transparent">read more</a>
