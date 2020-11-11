@@ -11,7 +11,7 @@ categories:
 tags:
   - "Photos"
   - "Plant"
+show_date: 1996-NOV-01
+quote: Ask for me tomorrow, and you shall find me a grave man.
+quote_character: Mercutio
 ---
-วันออกฉาย:
-
-Quotes:

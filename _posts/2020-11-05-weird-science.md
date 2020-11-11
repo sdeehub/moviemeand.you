@@ -11,7 +11,7 @@ categories:
 tags:
   - "Photos"
   - "Plant"
+show_date: 1985-AUG-02
+quote: You two can't even take a shower with a beautiful woman without wearing your jeans.
+quote_character: Lord General
 ---
-วันออกฉาย:
-
-Quotes:

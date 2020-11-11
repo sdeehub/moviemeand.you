@@ -11,7 +11,7 @@ categories:
 tags:
   - "Photos"
   - "Plant"
+show_date: 2000-SEP-22
+quote: We are not Groupies. Groupies sleep with rockstars because they want to be near someone famous. We are here because of the music, we inspire the music. We are Band Aids.
+quote_character: Penny Lane
 ---
-วันออกฉาย:
-
-Quotes:

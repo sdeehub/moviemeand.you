@@ -11,7 +11,7 @@ categories:
 tags:
   - "Photos"
   - "Plant"
+show_date: 2005-JUN-23
+quote: Won't even let us pee!
+quote_character: Tomoko Suzuki
 ---
-วันออกฉาย:
-
-Quotes:
