@@ -11,7 +11,7 @@ categories:
 tags:
   - "Photos"
   - "Plant"
+show_date: 1994-AUG-31
+quote: There is a place you can touch on a woman that will make her go crazy.
+quote_character: V
 ---
-วันออกฉาย:
-
-Quotes:

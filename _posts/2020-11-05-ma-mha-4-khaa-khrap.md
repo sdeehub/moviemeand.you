@@ -11,7 +11,7 @@ categories:
 tags:
   - "Photos"
   - "Plant"
+show_date: 2007-APR-05
+quote:
+quote_character: ลุงกาแฟ
 ---
-วันออกฉาย:
-
-Quotes:
