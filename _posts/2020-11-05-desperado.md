@@ -11,7 +11,7 @@ categories:
 tags:
   - "Photos"
   - "Plant"
+show_date: 1995-AUG-25
+quote: Give me the strength to be what I was, and forgive me for what I am.
+quote_character: El Mariachi
 ---
-วันออกฉาย:
-
-Quotes:
