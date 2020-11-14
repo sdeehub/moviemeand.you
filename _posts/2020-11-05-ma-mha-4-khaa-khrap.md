@@ -12,6 +12,6 @@ tags:
   - "Photos"
   - "Plant"
 show_date: 2007-APR-05
-quote:
+quote: แฮ่! ... แฮ่!
 quote_character: ลุงกาแฟ
 ---
