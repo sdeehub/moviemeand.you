@@ -11,7 +11,7 @@ categories:
 tags:
   - "Photos"
   - "Plant"
-show_date: 1988R-MA-30
+show_date: 1988-MAR-30
 quote: It's showtime!
 quote_character: Beetlejuice
 ---
