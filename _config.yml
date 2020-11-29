@@ -52,14 +52,14 @@ author:
 #-------------------------------
 # Contact Info
 contact:
-  email: odd.daboss@gmail.com
-  phone: +66 86 5995 692
+  email:
+  phone:
   address:
-    city: Solution Dee Co.,Ltd.
-    street: 328/139 Soi Sannibathedsabal Ladprao Road Chandrakasem Jatuchuk BKK 10900
+    city:
+    street:
 
 # Contact Form
-contact-form: odd.daboss@gmail.com
+contact-form: 
 
 # Social links
 social:
