@@ -12,6 +12,6 @@ tags:
   - "Photos"
   - "Plant"
 show_date: 2001-OCT-05
-quote: It's such a nice sounding word for what it means: a fortunate accident.
+quote: "It's such a nice sounding word for what it means: a fortunate accident."
 quote_character: Sara
 ---
