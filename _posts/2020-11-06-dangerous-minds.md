@@ -12,6 +12,6 @@ tags:
   - "Photos"
   - "Plant"
 show_date: 1995-AUG-11
-quote: What should i tell them? If they don't want to die remember to knock?
+quote: What should I tell them? If they don't want to die remember to knock?
 quote_character: Louanne
 ---
